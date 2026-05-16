@@ -192,6 +192,8 @@ http://localhost:8501
 # 📸 Screenshots
 
 <img width="1366" height="768" alt="AI study assist" src="https://github.com/user-attachments/assets/42a04131-7094-43ee-8fce-81c08c83afea" />
+<img width="1536" height="1024" alt="ChatGPT Image May 17, 2026, 12_55_34 AM" src="https://github.com/user-attachments/assets/c82d3d2c-8763-4f90-9c6e-3b76c1b69361" />
+
 
 
 * Home Interface
